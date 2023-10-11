@@ -1,0 +1,2 @@
+INSERT INTO tutorial (id, title, description, published)
+VALUES (10, 'Test 1', 'Description 1', '1')
